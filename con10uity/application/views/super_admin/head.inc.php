@@ -1,1 +1,0 @@
- <? include(APPPATH."views/head.inc.php"); ?>
